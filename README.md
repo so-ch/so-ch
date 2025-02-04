@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @so-ch
-- 👀 I’m interested in front-end, css tricks, typography, UX, branding, editorial design, languages (computer or human), dancing, music and learning new stuff
-- 🌱 I’m currently learning web app development and back-end stuff. I am slowly practicing Python and Java, too!
-- 💞️ I’m looking to collaborate on non-profit, front-end, UX, branding and contents
-- 📫 Reach out to me via email, [my website](https://so-ch.com?utm_source=github_profile) or [x](https://twitter.com/so___ch)
+- 👀 I’m interested in data anlysis, database management, css tricks, UX, branding, languages (computer or human), dancing, music and learning new stuff
+- 🌱 I’m currently learning web app development and back-end stuff.
+- 💞️ I’m looking to collaborate on non-profit projects.
+- 📫 Reach out to me via email.
 - 😄 Pronouns: she/her, they/them
 - ⚡ Fun fact: I talk back to advertisements.
