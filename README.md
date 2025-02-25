@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @so-ch
-- 👀 I’m interested in data anlysis, database management, css tricks, UX, branding, languages (computer or human), dancing, music and learning new stuff
-- 🌱 I’m currently learning web app development and back-end stuff.
+- 👀 I’m interested in data anlysis, database management, css tricks, UX, branding, languages (computer or human), and dancing.
 - 💞️ I’m looking to collaborate on non-profit projects.
 - 📫 Reach out to me via email.
 - 😄 Pronouns: she/her, they/them
